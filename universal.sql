@@ -23,7 +23,7 @@ DROP DATABASE universe;
 --
 -- Name: universe; Type: DATABASE; Schema: -; Owner: freecodecamp
 --
-
+-- my name is suhana chauhan
 CREATE DATABASE universe WITH TEMPLATE = template0 ENCODING = 'UTF8' LC_COLLATE = 'C.UTF-8' LC_CTYPE = 'C.UTF-8';
 
 
